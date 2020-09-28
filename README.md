@@ -1,5 +1,7 @@
 # Movies
 ## CS50 Problem
+This problem can be found at OpenCourseWare CS50 
+
 Write SQL queries to answer questions about a database of movies.
 
 ### Specification
