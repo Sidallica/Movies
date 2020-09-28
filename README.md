@@ -63,8 +63,9 @@ Kevin Bacon himself should not be included in the resulting list.
 To test your queries on CS50 IDE, you can query the database by running
 ```
 $ cat filename.sql | sqlite3 movies.db
-where filename.sql is the file containing your SQL query.
 ```
+where filename.sql is the file containing your SQL query.
+
 
 ### Testing
 No check50 for this problem! But be sure to test each query and ensure that the output is what you expect. You can run sqlite3 movies.db to run additional queries on the database to ensure that your result is correct.
